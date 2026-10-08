@@ -1,0 +1,14 @@
+{
+  "name": "enesmarasoglu-site",
+  "version": "1.0.0",
+  "description": "Enes Marasoğlu — kişisel girişimci sitesi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
